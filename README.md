@@ -10,11 +10,11 @@ This code checks grant applications. It uses Python 3 and a number of libraries 
 
 **(3) Python scripts**
 
-    *dw.py* - module with data analysis functions (imported programmatically by other scripts) 
+- *dw.py* - module with data analysis functions (imported programmatically by other scripts) 
 
-    *extractExcel.py* - extract grant application spreadsheets and into a small number of neat tables
+- *extractExcel.py* - extract grant application spreadsheets and into a small number of neat tables
 
-    *riskScript.py* - this produces risk flags and inserts them into the Excel report
+- *riskScript.py* - this produces risk flags and inserts them into the Excel report
 
 
 ## Contact:
