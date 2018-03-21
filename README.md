@@ -10,6 +10,8 @@ This code checks grant applications. It uses Python 3 and a number of libraries 
 
 **(3) Python scripts**
 
+To note that the main Python script contains clearly demarcated sections which can (if desired) be run in parallel to improve speed.
+
 - *dw.py* - module with data analysis functions (imported programmatically by other scripts) 
 
 - *extractExcel.py* - extract grant application spreadsheets and into a small number of neat tables
